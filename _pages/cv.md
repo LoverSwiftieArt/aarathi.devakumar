@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechatronics Engineering, Texas A&M University, College Station, 2028
+  * GPA: 3.83
+  * Activities and Organizations: Texas A&M University Robotics Team & Leadership Experience, Theta Tau Xi Gamma, Women in Robotics Engineering & Development, The Boring Company Dig' Em Aggies, Society of Women Engineers (SWE), Society of Mechatronics Engineering Technology (SOMTECH), American Society of Mechanical Engineers (ASME), 
 
-Work experience
+Relevant Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2025: Mechanical Engineering Intern
+  * Endeavr Institute
+  * Designed a hitch-compatible autonomous delivery module with weatherproof housing and thermal control to protect home-cooked meals
+  * Developed a cushioned ejection system and secure containment to safety deploy food and medical supplies onto varied terrains
+  * Assisted with CAD modeling, FEA validation, and prototyping to ensure structural integrity under transport constraints
+  * Integrated sensors and GPS logic to enable geofenced, fail-safe deliveries during rural transit
+  * Supervisor: Dr. Wei Li
 
 * Fall 2015: Research Assistant
   * GitHub University
