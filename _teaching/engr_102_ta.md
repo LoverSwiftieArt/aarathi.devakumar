@@ -4,7 +4,7 @@ collection: teaching
 type: First-Year General Engineering Course
 permalink: /teaching/engr_102_ta.md
 venue: "Texas A&M College of Engineering"
-date: 2025-16-08
+date: 2025-08-16
 location: "College Station, Texas, USA"
 ---
 
