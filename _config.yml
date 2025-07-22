@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_0713.jpg"
   name             : "Aarathi Devakumar"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Howdy, I'm Aarathi, a sophomore mechatronics engineering student at Texas A&M University! I'm passionate about robotics, automation, and creative design. Since my middle and high school days designing robots with my Girl Scouts Troop, I've developed skills in machining, CAD, prototyping, and testing. As a woman in STEM, I advocate for diversity in engineering through outreach and content through my Instagram, @girlypopengineer, where I share my journey. Outside of designing robots and machines, you can find me listening to music, playing my piano and violin, taking aesthetic pictures through my Instax mini, traveling, exercising, making delicious food, gardening, styling my fits, and just being curious and open to new opportunities and activities."
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,25 +46,25 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "LoverSwiftieArt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "girlypopengineer" # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "aarathi-devakumar" # Username
   mastodon         : # URL
   medium           : # URL
-  pinterest        : # Username
+  pinterest        : "aarathidevakumar" # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "aarathidevakumar6249" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
