@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Aarathi Devakumar's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Aarathi Devakumar"
+description              : &description "Sophomore Mechatronics Engineering Student at Texas A&M University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Aarathi Devakumar"
+  pronouns         : "she/her" # example: "she/her"  
+  bio              : "Howdy, I'm Aarathi, a sophomore mechatronics engineering student at Texas A&M University! I'm passionate about robotics, automation, and creative design. Since my middle and high school days designing robots with my Girl Scouts Troop, I've developed skills in machining, CAD, prototyping, and testing. As a woman in STEM, I advocate for diversity in engineering through outreach and content through my Instagram, @girlypopengineer, where I share my journey. Outside of designing robots and machines, you can find me listening to music, playing my piano and violin, taking aesthetic pictures through my Instax mini, traveling, exercising, making delicious food, gardening, styling my fits, and just being curious and open to new opportunities and activities."
+  location         : "College Station, Texas"
+  employer         : "Texas A&M University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aarathi.devakumar@gmail.com" 
 
   # Academic websites
   academia         : # URL
