@@ -2,7 +2,7 @@
 title: ENGR 102 Teaching Assistant
 collection: teaching
 type: First-Year General Engineering Course
-permalink: /teaching/engr_102_ta.md
+permalink: /teaching/engr_102_ta
 venue: "Texas A&M College of Engineering"
 date: 2025-08-16
 location: "College Station, Texas, USA"
