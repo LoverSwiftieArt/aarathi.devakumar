@@ -6,7 +6,7 @@ permalink: /publication/turtle_quadruped_project
 excerpt: 'Legged robots are more agile and adaptable than robots with other forms of locomotion. The purpose of this project is to design and manufacture a robot capable of balancing and maneuvering on four legs to better understand the capabilities of walking robots.'
 date: 2025-04-22
 venue: 'TURTLE Project Showcase Spring 2025'
-slidesurl: 'http://aarathi.devakumar.github.io/files/QUAD_Poster_Spring_2025.pptx.pdf'
+slidesurl: 'http://loverswiftieart.github.io/files/QUAD_Poster_Spring_2025.pptx.pdf'
 citation: 'Ian Lansdowne, Kalen Jaroszewski, Eddy Silva, Jonathan Foltyn, Oscar Dominguez, Micah Guttman, Shreyas Kannanganat, Aarathi Devakumar, Madden Schoener'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
