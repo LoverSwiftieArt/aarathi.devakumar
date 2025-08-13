@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechatronics Engineering, Texas A&M University, College Station, 2028
   * Minor(s): Mathematics
-  * GPA: 3.83
+  * GPA: 3.87
   * Activities and Organizations: Texas A&M University Robotics Team & Leadership Experience, Theta Tau Xi Gamma, Women in Robotics Engineering & Development, The Boring Company Dig' Em Aggies, Society of Women Engineers (SWE), Society of Mechatronics Engineering Technology (SOMTECH), American Society of Mechanical Engineers (ASME) 
 
 Relevant Experience
