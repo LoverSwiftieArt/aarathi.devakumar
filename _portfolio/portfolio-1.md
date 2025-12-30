@@ -1,7 +1,7 @@
 ---
-title: "Grinding Projects Currently (Work In Progress)"
-excerpt: "Come Back Soon!"
+title: "SpaceCraft VR: Space Robotics Manipulators"
+excerpt: "Designing Control Inputs for Canadarm2 Simulation"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+rip i hate this guys
