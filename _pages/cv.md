@@ -11,14 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Texas A&M University, College Station, 2028
-  * Minor(s): Mathematics
-  * GPA: 3.87
-  * Activities and Organizations: Texas A&M University Robotics Team & Leadership Experience, Theta Tau Xi Gamma, Women in Robotics Engineering & Development, The Boring Company Dig' Em Aggies, Society of Women Engineers (SWE), Society of Mechatronics Engineering Technology (SOMTECH), American Society of Mechanical Engineers (ASME) 
+* B.S. in Multidisciplinary Engineering Technology - Mechatronics, Texas A&M University, College Station, 2028
+  * Minor(s): Mathematics, Embedded Systems Integration
+  * GPA: 3.656
+  * Activities and Organizations: Texas A&M University Robotics Leadership and Experience Team (TURTLE), Theta Tau Co-Ed Engineering Fraternity, Women in Robotics Engineering & Development (WIRED), Society of Women Engineers (SWE), Society of Mechatronics Engineering Technology (SOMTECH), American Society of Mechanical Engineers (ASME), Autodesk Ambassadorship Program, USDA Science Influencers
 
-Relevant Experience
+Research/Internship Experience
 ======
-* July 2025 - Present: Mechanical Engineering Intern
+* August 2025 - December 2025: Space Robotics Manipulator Researcher
+  * Texas A&M Department of Aerospace Engineering SpaceCraft VR
+  * Modeled space arm manipulators (Canadarm2) through SpaceTeams Pro to analyze forward and inverse kinematics
+  * Researched and compared control algorithms (Jacobian based) to evaluate accuracy and efficiency in redundant manipulators
+  * Investigated human-robot control simulations, references and interfaces for teleoperation and autonomous execution in ROS and Python mouse and keyboard inputs, supporting future extravehicular activity and on-orbiting service applications
+  * Supervisor: Dr. Gregory Chamitoff
+
+* July 2025 - August 2025: Mechanical Engineering Intern
   * Endeavr Institute
   * Designed a hitch-compatible autonomous delivery module with weatherproof housing and thermal control to protect home-cooked meals
   * Developed a cushioned ejection system and secure containment to safety deploy food and medical supplies onto varied terrains
@@ -34,45 +41,51 @@ Relevant Experience
   * Developed a professional design proposal outlining findings, solutions, and recommendation for improving precision and reliability in robotic systems
 
 * June 2024 - July 2024: Student Researcher
-  * University of Texas at Dallas
+  * University of Texas at Dallas Department of Mechanical Engineering
   * Explored the use of biodegradable, plant-based materials in edible robotics as part of an automated soil-sensor project
-  * Conducted tensile strength and hydrophobicity tests to compare edible vs. conventional non-edible materials
-  * Performed iterative material testing on vegan food products to access mechanical properties and feasibility for soft robotics components
-  * Applied trial-and-error experimentation and data analysis to evaluate functional performance of edible materials
+  * Characterized tensile strengths (15-25 MPa) and hydrophobicity (up to 115 degrees) of plant-based polymers, providing data that informed feasibility of edible soft robotics components for sustainable agriculture sensing
+  * Validated feasibility against conventional options such as steel, metal alloys, and synthetic rubber, with a 90% reduction in material waste through biodegradable composition
   * Supervisor: Dr. Juyoung Leem
 
-Activities & Projects
+Revelant Experience
 ======
+* September 2025: Aggies Invent - Pantex
+* First-Place Winner
+  * Engineered a coordinated measurement machine with a machine learning tracking robotic arm system in less than 48-hours with a team of four to reduce human error and repetition in manual tooling inspections
+  * Achieved 90% of tooling inspections were automated, quicker and efficient without much human interaction through research and prototyping
+  * Gained valuable mentorship from Pantex engineers, scoping for over 120,000 special tools for inspection processes
+
 * March 2024 - Present: Texas A&M University Robotics Team & Leadership Experience
-  * May 2025 - Present: Fashionable Assistive Spinal Harness Project Lead
-    * Led an interdisciplinary team to develop a wearable smart corset that improves posture using embedded systems, motion sensing, and biomechanical feedback
-    * Integrated principles of fashion design with robotics to enhance comfort, wearability, and aesthetic appeal for users with spinal issues and athletes
-    * Initiated the creation of a PyBullet simulation model of the human back to test actuation strategies before physical prototyping
-    * Coordinated research on smart materials, sensor integration, and embedded firmware development for real-time posture adjustment
+  * May 2025 - Present: Project Lead and Founder - FASH (Fashion and Wearable Robots)
+    * Directed a 11-member cross-functional team (mechanical, electrical, software, physiological, design)
+Spearheaded project rescope and task coordination, steering the team through a high-pressure pivot from a biomechanical back-brace concept to an expressive automated ballerina dress design, successfully rebranding and prototyping in under 3 weeks
+    * Assembled an automated wearable wing system using flex sensors, Arduino, and an L298-driven dual-gear mechanism to track user motion
+    * Built a secondary prototype for wing system, integrating RGB LEDs and fiber-optic elements to create dynamic lighting effects, expanding the system’s interactive capabilities and its aesthetic impact and scalability
   * March 2024 - Present: Quadrupedal Project Member
-    * Established sketches and collaborated with team on chassis and leg performance weight ratio through SolidWorks
-    * Designed a sturdy test stand for a quadrupedal robot to explore its walking, running and jumping capabilities 
-    * Developed detailed and multicolored CAD models through SolidWorks and designs for additive manufacturing
+    * Designed 2 SolidWorks CAD Models and a test stand to evaluate gait performance for a quadrupedal robot, enabling the team to measure walking, running and jumping capabilities under controlled conditions
+    * Optimized chassis weight distribution and additive manufacturing designs, increasing structural reliability
 
 * January 2025: TAMUHack
 * Hardware Competitor
-  * Designed and optimized a stable 3D-printed base in Onshape to support a missile guidance prototype, ensuring structural integrity and precise alignment under simulated conditions
-  * Integrated sensor systems using Arduino, including soldering and wiring to ensure full circuit functionality and signal fidelity throughout testing
-  * Collaborated with a team of 4 to iterate on mechanical and electrical subsystems under a 2 day tight deadline in a competitive field of 460+ university teams across Texas
-  * Achieved 100% functionality and operational reliability during final evaluation, contributing to the team's strong performance in a high-stakes design environment
- 
+  * Designed & optimized a stable 3D-printed base in Onshape to support a missile guidance prototype, ensuring structural integrity & precise alignment under simulated conditions
+  * Integrated Arduino-based sensor systems with soldered circuits to maintain full functionality and signal fidelity, iterating mechanical and electrical subsystems with a team of 4 under a 48-hour deadline
+  * Achieved 85% functionality & operational reliability during final evaluation, contributing to the team's strong performance in a high-stakes design environment
+
 * August 2024 - February 2025: Women in Robotics Engineering and Development
 * VEX U Robotics Mechanical Team Member and Strategizer
   * Engineered and iteratively refined a drivetrain chassis optimized for combined speed and torque, stability, and maneuverability in high-pressure competitive settings
   * Prototyped and tested scoring mechanisms, including a chain-driven intake and pneumatic hook, focusing on reliability, efficiency, and accuracy
  
-Miscellaneous Leadership Experiences
+Leadership Experiences
 ======
 * August 2025 - Present: Theta Tau Xi Gamma Professional Engineering Fraternity
-* Tailgate Committee Member
+  * December 2025 - Present: Retreat Coordinator and Regional Director
+  * August 2025 - December 2025: Tailgate Committee Member
+    * Collaborated with a group of six to manage engaging activities during two football games
+    * Invited a Forbes 30 Under 30 Fashion AI Company to sponsor event, saving over $300 in food and materials to entertain guests
 
 * March 2025: Texas Science and Engineering Fair
-* Judge
+* Volunteer Judge
   * Served as a state-level judge for middle school robotics and machine intelligence projects, evaluating technical innovation, functionality, and real-world application
   * Collaborated with 6 judges to assess projects using standardized rubrics focused on design quality, creativity, and overall presentation
   * Provided constructive feedback to student teams, encouraging constant improvement and continued engagement in STEM disciplines
